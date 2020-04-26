@@ -1,2 +1,8 @@
 ## Neural Collaborative Filtering
-使用pytorch实现Neural Collaborative Filtering这篇论文的Neural matrix factorization model模型。
+Implement Neural Collaborative Filtering with pytorch.
+Homework for ECNU recommedation system course.
+
+### Notice
+- modify hyper parameters in config.py
+- run train.py to start training
+- use NDCG@10 to evaluate MovieLens 1M dataset 
